@@ -13,7 +13,7 @@ geo_values = input(
 
 # making url
 url = "https://api.weather.gov/points/"+geo_values
-print("Error occure Please try again later...")
+
 
 # getting data
 try:
